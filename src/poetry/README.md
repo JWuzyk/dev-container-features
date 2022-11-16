@@ -1,7 +1,7 @@
 
-# Hello, World! (hello)
+# Poetry
 
-A hello world feature
+Install poetry in a dev container.
 
 ## Example Usage
 
@@ -17,6 +17,8 @@ A hello world feature
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
+| greeting | Select a pre-made greeting, or enter your own | string | hey |
+| greeting | Select a pre-made greeting, or enter your own | string | hey |
 | greeting | Select a pre-made greeting, or enter your own | string | hey |
 
 
