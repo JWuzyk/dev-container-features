@@ -1,12 +1,12 @@
 # Radix Dev Container Features
 
-This repo provides custom [dev container Features](https://containers.dev/implementors/features/) developed by Radix. The repository follows the example give in the [feature-starter](https://github.com/devcontainers/feature-starter). Dev container features are described in the [dev container Feature distribution specification](https://containers.dev/implementors/features-distribution/).
+This repo provides custom [dev container Features](https://containers.dev/implementors/features/) developed by [Radix](https://radix.ai). The repository follows the example give in the [feature-starter](https://github.com/devcontainers/feature-starter). Dev container features are described in the [dev container Feature distribution specification](https://containers.dev/implementors/features-distribution/).
 
 ## Contents
 
 ### `poetry`
 
-[Poetry](https://python-poetry.org/) will be available inside the built container.
+This feature adds [Poetry](https://python-poetry.org/) to a dev container.
 
 Example `devcontainer.json`
 
