@@ -1,15 +1,13 @@
 
-# Poetry
+# Poetry (poetry)
 
-Install poetry in a dev container.
+A hello world feature
 
 ## Example Usage
 
 ```json
 "features": {
-    "ghcr.io/devcontainers/feature-starter/hello:1": {
-        "version": "latest"
-    }
+    "ghcr.io/radix-ai/dev-container-features/poetry:0": {}
 }
 ```
 
@@ -17,12 +15,11 @@ Install poetry in a dev container.
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| greeting | Select a pre-made greeting, or enter your own | string | hey |
-| greeting | Select a pre-made greeting, or enter your own | string | hey |
-| greeting | Select a pre-made greeting, or enter your own | string | hey |
+| poetry_home | Path where poetry should be installed. | string | - |
+| poetry_version | Poetry version to install. | string | 1.2.0 |
 
 
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/feature-starter/blob/main/src/hello/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/radix-ai/dev-container-features/blob/main/src/poetry/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
