@@ -7,7 +7,7 @@ A hello world feature
 
 ```json
 "features": {
-    "ghcr.io/radix-ai/dev-container-features/poetry:0": {}
+    "ghcr.io/JWuzyk/dev-container-features/poetry:0": {}
 }
 ```
 
@@ -22,4 +22,4 @@ A hello world feature
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/radix-ai/dev-container-features/blob/main/src/poetry/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/JWuzyk/dev-container-features/blob/main/src/poetry/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
